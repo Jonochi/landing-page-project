@@ -9,7 +9,7 @@ header,
 footer {
     height: 75px;
     background-color: pink;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 h1, h3 {
     text-align: center;
